@@ -1,6 +1,6 @@
 # Children's Story Generator
 
-An AI-powered application that automatically creates children's stories with beautiful illustrations.
+An AI-powered application that automatically creates children's stories with beautiful illustrations
 
 ## Features
 
